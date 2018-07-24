@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/vanilla.iml" filepath="$PROJECT_DIR$/vanilla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mombesoft.iml" filepath="$PROJECT_DIR$/mombesoft.iml" />
     </modules>
   </component>
 </project>
