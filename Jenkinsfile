@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('shell') {
       steps {
-        echo 'coucou'
+        sh 'mvn clean package'
       }
     }
 
